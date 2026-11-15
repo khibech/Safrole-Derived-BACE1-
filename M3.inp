@@ -1,7 +1,7 @@
 # ORCA job from PDB
 ! B3LYP D3BJ def2-SVP Opt TightSCF
 
-* xyz +1 2
+* xyz +1 1
 C         -4.69000       -1.33500        2.66100
 O         -6.75200       -1.65200        2.25400
 C         -1.44100        0.29400       -4.04300
